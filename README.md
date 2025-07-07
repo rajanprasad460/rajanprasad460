@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on [Mathematical model development for cable driven exoskeletons for rehabiltation].
 - 📫 How to reach me ... LinkedIn https://www.linkedin.com/in/rajanprasad460/
 
+Find my Resume here.
+[![Resume](https://img.shields.io/badge/CV-View-blue)](https://github.com/rajanprasad460/rajanprasad460/blob/main/CV_main_File.pdf)
 
 <!---
 rajanprasad460/rajanprasad460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
