@@ -27,11 +27,16 @@
 ### 🧠 Trunk-Inspired Robotic Motion (Dynamic Modeling)
 ![Trunk Motion](https://github.com/rajanprasad460/rajanprasad460/blob/main/TurnkMotion.gif?raw=true)
 
+### 🎨 Rimless Walking Wheel Under Gravity Influence
+![Simple Art](https://github.com/rajanprasad460/rajanprasad460/blob/main/rimless_wheel.gif?raw=true)
+
 ### 🎨 Minimalistic Art - Spiral Series
 ![Spiral Art](https://github.com/rajanprasad460/rajanprasad460/blob/main/spiral-1-2-3-4-5-6-7-8.gif?raw=true)
 
 ### 🎨 Simple Animated Pattern
 ![Simple Art](https://github.com/rajanprasad460/rajanprasad460/blob/main/Finalized.gif?raw=true)
+
+
 
 ---
 
