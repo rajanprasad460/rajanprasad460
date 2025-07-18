@@ -30,12 +30,15 @@
 **📚 Related Publications:**
 
 1. *A Generalized Framework for the Assessment of Cable-Driven Lower Limb Rehabilitation Exoskeletons*, ICBET 2022 ([DOI](https://doi.org/10.1145/3535694.3535716))
-2. *Performance & Requirements Framework*, *Front. Bioeng. Biotechnol.* (2022)
+2. *Performance & Requirements Framework*, *Front. Bioeng. Biotechnol.* (2022) ([DOI](https://doi.org/10.3389/fbioe.2022.920462))
 3. *Controller Impact Study: PD vs MPC*, CoDIT 2023 ([DOI](https://doi.org/10.1109/CoDIT58514.2023.10284066))
-4. *Bi-Planar Trajectory Tracking with 3DOF Cable Design*, *Sensors* (2023)
-5. *Assisting Stroke Gait – A Simulation Study*, ICBET 2023
-6. *Muscle-Inspired Cable Routing for C-LREX*, *Scientific Reports* (2024)
+4. *Bi-Planar Trajectory Tracking with 3DOF Cable Design*, *Sensors* (2023) ([DOI](https://doi.org/10.3390/s23031677))
+5. *Assisting Stroke Gait – A Simulation Study*, ICBET 2023 ([DOI](https://doi.org/10.1145/3620679.3620691))
+6. *Muscle-Inspired Cable Routing for C-LREX*, *Scientific Reports* (2024) ([DOI](https://doi.org/10.1038/s41598-024-55785-0))
 
+
+### Toolbox
+Refer to [CLREX Toolbox](https://github.com/rajanprasad460/C-LREX-Tool) for symbolic modeling, recursive dynamics, and constraint handling routines tailored to cable-driven locomotion systems.
 ---
 
 ### 🧠 Trunk-Inspired Robot Dynamics
