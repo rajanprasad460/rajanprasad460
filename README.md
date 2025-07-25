@@ -74,6 +74,7 @@ Refer to [CLREX Toolbox](https://github.com/rajanprasad460/C-LREX-Tool) for symb
 ---
 
 ## 🎨 Creative Visuals
+**Refer to** [Art Via Matalb](https://github.com/rajanprasad460/Arts-Via-MATLAB.git)
 
 ### ✨ Minimalistic Spiral Series
 
