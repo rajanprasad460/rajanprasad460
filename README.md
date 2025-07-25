@@ -52,8 +52,18 @@ Refer to [CLREX Toolbox](https://github.com/rajanprasad460/C-LREX-Tool) for symb
 
 ---
 
-### ⚙️ Rimless Walking Wheel Simulation
+### AWID Skid Steering Vehicle
+*Six-Wheel All-Wheel Independent Drive (AWID) Vehicle*
+**Refer to** [AWID Vehicle Repository](https://github.com/rajanprasad460/AWID-Vehicle.git)
+![AWID Vehicle](https://github.com/rajanprasad460/rajanprasad460/blob/main/six_wheel_animation.gif?raw=true)
 
+**📚 Related Publication:**
+1. *Prasad et al.*, *Hierarchical Control Coordination Strategy of Six Wheeled Independent Drive (6WID) Skid Steering Vehicle*, IFAC 2019 ([DOI](: https://doi.org/10.1016/j.ifacol.2019.09.010))
+2. *Prasad et al.*, *Hierarchical Coordinated Control Distribution and Experimental Verification for Six-Wheeled Unmanned Ground Vehicles*, Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 2020 ([DOI](https://doi.org/10.1177/0954407020940823))
+
+---
+### ⚙️ Rimless Walking Wheel Simulation
+**Refer to** [Rimless Wheel Simulation](https://github.com/rajanprasad460/RimLessWheel.git)
 *A passive rimless wheel walking under gravity influence*
 
 ![Rimless Wheel](https://github.com/rajanprasad460/rajanprasad460/blob/main/rimless_wheel.gif?raw=true)
