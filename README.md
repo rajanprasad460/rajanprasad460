@@ -46,7 +46,7 @@ Refer to [CLREX Toolbox](https://github.com/rajanprasad460/C-LREX-Tool) for symb
 *Dynamic modeling of bio-inspired elephant trunk robots*
 
 **Refer to** [Elephant Trunk Manipulator Project](https://github.com/rajanprasad460/Elephant-Trunk.git) 
-
+*#Private Repository*
 
 ![Trunk Motion](https://github.com/rajanprasad460/rajanprasad460/blob/main/TurnkMotion.gif?raw=true)
 
