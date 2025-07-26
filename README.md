@@ -57,8 +57,41 @@ Refer to [CLREX Toolbox](https://github.com/rajanprasad460/C-LREX-Tool) for symb
 
 ### AWID Skid Steering Vehicle
 *Six-Wheel All-Wheel Independent Drive (AWID) Vehicle*
-**Refer to** [AWID Vehicle Repository](https://github.com/rajanprasad460/AWID-Vehicle.git)
+**Refer to** [AWID Vehicle Repository](https://github.com/rajanprasad460/AWID-Vehicle.git) *#Private Repository*
 ![AWID Vehicle](https://github.com/rajanprasad460/rajanprasad460/blob/main/six_wheel_animation.gif?raw=true)
+
+* This project is part of my Master's thesis **Real time torque vectoring control of off-road unmanned ground vehicle with multi complex nonlinear constraints** conducted at Beijing Institute of Technology under the supervision of **Dr. Ma Yue** from 2017 to 2019. It includes dynamic modeling, symbolic derivation, and simulation of a six-wheeled independent drive skid-steering vehicle.
+
+
+**Without and With lateral Resistance**
+<table>
+  <tr>
+    <td align="center">
+      <img src="six_wheel_animation.gif" width="500"/><br/>
+      <b>No Lateral Resistance</b>
+    </td>
+    <td align="center">
+      <img src="six_wheel_animation-1.gif" width="500"/><br/>
+      <b>Lateral Resistance</b>
+    </td>
+  </tr>
+</table>
+
+
+**Without and With Rolling Resistance**
+<table>
+  <tr>
+    <td align="center">
+      <img src="six_wheel_animation-1-2.gif" width="500"/><br/>
+      <b>No Rolling Resistance</b>
+    </td>
+    <td align="center">
+      <img src="six_wheel_animation-1-2-3.gif" width="500"/><br/>
+      <b>Rolling Resistance</b>
+    </td>
+  </tr>
+</table>
+---
 
 **📚 Related Publication:**
 1. *Prasad et al.*, *Hierarchical Control Coordination Strategy of Six Wheeled Independent Drive (6WID) Skid Steering Vehicle*, IFAC 2019 ([DOI](: https://doi.org/10.1016/j.ifacol.2019.09.010))
