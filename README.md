@@ -35,6 +35,7 @@
 4. *Bi-Planar Trajectory Tracking with 3DOF Cable Design*, *Sensors* (2023) ([DOI](https://doi.org/10.3390/s23031677))
 5. *Assisting Stroke Gait – A Simulation Study*, ICBET 2023 ([DOI](https://doi.org/10.1145/3620679.3620691))
 6. *Muscle-Inspired Cable Routing for C-LREX*, *Scientific Reports* (2024) ([DOI](https://doi.org/10.1038/s41598-024-55785-0))
+7. *Simulation of stroke gait impairment correction*, *Wearable Technologies* (2025) ([DOI](https://doi.org/10.1017/wtc.2025.10013))
 
 
 ### Toolbox
